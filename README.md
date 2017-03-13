@@ -1,6 +1,9 @@
 # first-in-line
 
+## Prerequisites
 
+NodeJS
+Git
 
 ## Installation
 
