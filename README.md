@@ -12,7 +12,6 @@ install http-server with npm.
 
 > `npm install -g http-server`
 
-run http-server
-default port is 8080
-`http-server -o -p <port-number>`
+run http-server, default port is 8080
+> `http-server -o -p <port-number>`
 
